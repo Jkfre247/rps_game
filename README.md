@@ -1,0 +1,1 @@
+Zabawa w papier, kamień, nożyce. Na początku robimy zdjęcia gestów — 40 zdjęć na jeden gest, aby wytrenować model. Następnie przepuszczamy dane przez sieć neuronową, aby wytrenować dwa modele: jeden model z danymi nieznormalizowanymi i drugi ze znormalizowanymi. Jest również faza sprawdzania, w której możemy sprawdzić, jaki gest pokazaliśmy. Na sam koniec możemy uruchomić grę.
